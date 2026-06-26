@@ -1,3 +1,8 @@
+#React app for Form Validation Exercise
+
+Using handler functions for error handling and validation and states to hold user input, there are two textfields that will alert the user if there was incorrect validation; in this case, empty form fields when hitting submit. 
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
